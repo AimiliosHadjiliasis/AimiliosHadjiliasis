@@ -17,7 +17,7 @@
 -	🤖 Pedagogical Agents and Agent Technologies
 -	🕹️ Games Development and Evaluations
 -	📱 Applications of Immersive Technologies (VR/AR/MR)
--	🖥️ Immersive and Educational Technologies
+-	🥽 Immersive and Educational Technologies
 -	👾 Serious Games and Game-Based Learning
 -	🔎 Applications and Evaluation of Virtual Worlds
 -	👨‍💻 Human-Computer Interactions
