@@ -58,7 +58,7 @@
   - 2017-2021: UCLan Cyprus 50% Scholarship for 4 years toward a BSc (Hons) in Computing
 - 🏵️ **Awards:**
   - 2022 – Coached the Winning UCLan Cyprus team of the Pancyprian Game Development Challenge competition
-  - 2021 – Dean List Award – for graduating with first-class honors
+  - 2021 – Dean List Award – for graduating with first-class honours
   - 2021- 2nd place award – IEEE ACIR/ICIR competition – for the development of an intelligent VR museum to support cultural heritage and enhance user experience
 
 ### Other Scholarly and Outreach Activities:
@@ -74,10 +74,11 @@
   
 ### Connect with me:
 <p align="center">
+  <a href="https://www.linkedin.com/in/aimilios-hadjiliasis/" target="blank"><img align="center" src="LIN.png" alt="LinkedIn" height="50" width="50" /></a> 
+  <a href="https://x.com/AimiliosHadj" target="blank"><img align="center" src="new-twitter-x-logo-vector-twitter-x-sign-vector_952796-6.avif" alt="X" height="50" width="50" /></a>
+  <a href="https://orcid.org/my-orcid?orcid=0000-0002-5216-5662" target="blank"><img align="center" src="ORCID.png" alt="ORCID" height="50" width="50" /></a>
   <a href="https://scholar.google.com/citations?user=KOIc9swAAAAJ&hl=en" target="blank"><img align="center" src="GS.png" alt="Google Scholar" height="50" width="50" /></a>
   <a href="https://www.researchgate.net/profile/Aimilios-Hadjiliasi" target="blank"><img align="center" src="RG.webp" alt="Research Gate" height="50" width="50" /></a>
   <a href="https://www.uclancyprus.ac.cy/academic/mr-aimilios-hadjiliasi/" target="blank"><img align="center" src="UCLAN.png" alt="UCLan" height="50" width="50" /></a>
-  <a href="https://www.linkedin.com/in/aimilios-hadjiliasis/" target="blank"><img align="center" src="LIN.png" alt="LinkedIn" height="50" width="50" /></a> 
-  <a href="https://x.com/AimiliosHadj" target="blank"><img align="center" src="new-twitter-x-logo-vector-twitter-x-sign-vector_952796-6.avif" alt="X" height="50" width="50" /></a>
 </p>
 </div>
