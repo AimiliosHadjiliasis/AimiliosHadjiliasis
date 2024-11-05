@@ -3,9 +3,12 @@
 ## Hi there I am Aimilios 👋
 ![Alt text](VRAI.PNG)
 ## About me:
-<p >
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-</p>
+<div>
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  <p>
+    A recent BSc Computing graduate and a PhD candidate at the University of Central Lancashire. An enthusiastic game development specialist with experience in various aspects of games development, with research interests in the areas of Pedagogical Agents, Artificial Intelligence, Educational Technologies and Immersive Technologies (VR/AR/MR/XR).
+  </p>
+</div>
 
 ----
 
@@ -26,20 +29,20 @@
 -	👨‍💻 Human-Computer Interactions
 
 ### Employment Track:
--	🎮 Game Studio Manager - **Rays and Vectors Student-led Game Studio** (2022-Present)
--	🔎 Research Associate - **UCLan Cyprus** (2021-Present)
--	👨‍💻 Co-Founder, Media Director and Editor - **Business Status Blog** (2021-Present)
--	🥼 Student Researcher - **INSPIRE Lab** (2021) 
+-	🎮 **Game Studio Manager** - [Rays and Vectors Student-led Game Studio](https://github.com/rays-and-vectors) (2022-Present)
+-	🔎 **Research Associate** - [UCLan Cyprus](https://www.uclancyprus.ac.cy/) (2021-Present)
+-	👨‍💻 **Co-Founder, Media Director and Editor** - [Business Status Blog](https://www.businessstatusblog.com/) (2021-Present)
+-	🥼 **Student Researcher** - [INSPIRE Lab](http://inspirecenter.org/index.html#) (2021) 
 
 ### Publications:
 - 📚 **Scientific Posters:**
   - Hadjiliasi A., Nisiotis L., and Polycarpou I. (2022) – Utilising Pedagogical Agents and Virtual Reality as a unified technology to support immersive learning [Poster] at the 2nd IEEE International Conference on Intelligent Reality (ICIR 2022) conference.
   - Hadjiliasi A., Nisiotis L., and Polycarpou I. (2022) – Utilising Pedagogical Agents and Virtual Reality as a unified technology to support immersive learning [Poster] at the 9th ACM Celebration of Women in Computing: womENcourage 2022 celebration.
 - 📚 **Conference Papers:**
-  - Hadjiliasi A., Nisiotis L. and Polycarpou I. (2024) A Comparative Assessment of Technology Acceptance and Learning Outcomes in Computer-based versus VR-based Pedagogical Agents. In: 23rd IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 21-25/10/2024, Seattle, WA, USA.
-  - Nisiotis, L. and Hadjiliasi, A., 2023. Work-in-progress—assessing the feasibility of playtesting video games using immersive technologies as a learning method. Immersive Learning Research-Academic, pp.24-28. doi: https://doi.org/10.56198/ZH3JOITAS
+  - Hadjiliasi A., Nisiotis L. and Polycarpou I. (2024) A Comparative Assessment of Technology Acceptance and Learning Outcomes in Computer-based versus VR-based Pedagogical Agents. In: 23rd IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 21-25/10/2024, Seattle, WA, USA. [Read Here](https://arxiv.org/abs/2410.18048)
+  - Nisiotis, L. and Hadjiliasi, A., 2023. Work-in-progress—assessing the feasibility of playtesting video games using immersive technologies as a learning method. Immersive Learning Research-Academic, pp.24-28. [Read Here](https://publications.immersivelrn.org/index.php/academic/article/view/75)
 - 📚 **Book Chapters:**
-  - Nisiotis L., Hadjiliasi A., Alexandrou F. and Alboul L. (2023) Interwoven Spaces with XR, AI and Robots: Merging Realities in Space and Time. In: Museums and Technologies of Presence. Routledge. ISBN 9781003334316
+  - Nisiotis L., Hadjiliasi A., Alexandrou F. and Alboul L. (2023) Interwoven Spaces with XR, AI and Robots: Merging Realities in Space and Time. In: Museums and Technologies of Presence. Routledge. ISBN 9781003334316 [Read Here](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003334316-17/interwoven-spaces-xr-ai-robots-louis-nisiotis-aimilios-hadjiliasi-floris-alexandrou-lyuba-alboul)
 
 
 ### Memberships (Academic/Professional):
