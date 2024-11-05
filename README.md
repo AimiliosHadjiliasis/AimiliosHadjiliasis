@@ -7,8 +7,11 @@
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 </p>
 
-## Resume
+----
 
+----
+
+## Resume
 ### Qualifications (Education):
 - 🥼 PhD Computing (University of Central Lancashire, 2021-Present)
 - 🎓 BSc (Hons) Computing (UCLan Cyprus, 2021)
@@ -70,6 +73,38 @@
 - 📙 **Conference Paper - Peer Reviewer:**
   - IEEE International Symposium of Emerging Metaverse 2024 (ISEMV2024)
 
+----
+
+----
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,sqlite,php,html,css,unity,git,github,vscode,visualstudio,webstorm,idea,clion,pycharm,sublime,windows,linux,notion,wordpress,pr,ps,ae,au,aws&perline=14" />
+  </a>
+</p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Some GitHub Stats📈</h2></summary>
+  </ul>
+</div>
+
+| ![Aimilios's github stats](https://github-readme-stats.vercel.app/api?username=AimiliosHadjiliasis&show_icons=true&theme=codeSTACKr) | ![Aimilios GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AimiliosHadjiliasis&theme=codeSTACKr) |
+| --- | --- |
+| <div align="center" style="width: 100%;">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AimiliosHadjiliasis&theme=codeSTACKr&count_private=true)</div> | <div align="center" style="width: 100%;">![Github Stars](https://github-readme-stats.vercel.app/api?username=AimiliosHadjiliasis&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=codeSTACKr)</div> |
+
+----
+
+----
+
 <div align="center">
   
 ### Connect with me:
@@ -82,3 +117,7 @@
   <a href="https://www.uclancyprus.ac.cy/academic/mr-aimilios-hadjiliasi/" target="blank"><img align="center" src="UCLAN.png" alt="UCLan" height="50" width="50" /></a>
 </p>
 </div>
+
+----
+
+----
