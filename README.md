@@ -62,10 +62,11 @@
 - 🏵️ **Scholarships:**
   - 2021-2024: UCLan 100% Scholarship for 3 years toward a PhD in Computing
   - 2017-2021: UCLan Cyprus 50% Scholarship for 4 years toward a BSc (Hons) in Computing
+  - 2017-2021: State-funded scholarship for undergraduate studies
 - 🏵️ **Awards:**
   - 2022 – Coached the Winning UCLan Cyprus team of the Pancyprian Game Development Challenge competition
   - 2021 – Dean List Award – for graduating with first-class honours
-  - 2021- 2nd place award – IEEE ACIR/ICIR competition – for the development of an intelligent VR museum to support cultural heritage and enhance user experience
+  - 2021 - 2nd place award – IEEE ACIR/ICIR competition – for the development of an intelligent VR museum to support cultural heritage and enhance user experience
 
 ### Other Scholarly and Outreach Activities:
 - 📗 **Mentor and Judge**, Logipegnion Game Development Competition (2021-2022)
