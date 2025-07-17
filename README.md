@@ -113,7 +113,7 @@
   
 ### Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/aimilios-hadjiliasis/" target="blank"><img align="center" src="LIN.png" alt="LinkedIn" height="50" width="50" /></a> 
+  <a href="https://www.linkedin.com/in/aimilios-hadjiliasi/" target="blank"><img align="center" src="LIN.png" alt="LinkedIn" height="50" width="50" /></a> 
   <a href="https://x.com/AimiliosHadj" target="blank"><img align="center" src="new-twitter-x-logo-vector-twitter-x-sign-vector_952796-6.avif" alt="X" height="50" width="50" /></a>
   <a href="https://orcid.org/my-orcid?orcid=0000-0002-5216-5662" target="blank"><img align="center" src="ORCID.png" alt="ORCID" height="50" width="50" /></a>
   <a href="https://scholar.google.com/citations?user=KOIc9swAAAAJ&hl=en" target="blank"><img align="center" src="GS.png" alt="Google Scholar" height="50" width="50" /></a>
